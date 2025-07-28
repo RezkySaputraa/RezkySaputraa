@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Fullstack Web Development
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about anything
-- ⚡ Fun fact: Keep grinding
+- ⚡ Fun fact: Always grinding
 
 <p align="left">
 <a href="https://github.com/RezkySaputraa">
